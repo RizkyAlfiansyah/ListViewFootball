@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">FOOTBALL PLAYER</string>
+    <string name="name_player">Nama Pemain</string>
+    <string name="lorem">Deskripsi</string>
+    <string name="nama">Rizky Alfiansyah</string>
+    <string name="email">rizkkyaf@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Beckham</item>
+        <item>Dybala</item>
+        <item>Griezmann</item>
+        <item>James</item>
+        <item>Lampard</item>
+        <item>Messi</item>
+        <item>Ramos</item>
+        <item>Ronaldo</item>
+        <item>Salah</item>
+        <item>Villa</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>David Robert Joseph Beckham, (lahir di London, 2 Mei 1975; umur 44 tahun)adalah mantan pemain sepak bola asal Inggris. Ia tercatat pernah membela Manchester United, Preston North End, Real Madrid, Milan, Los Angeles Galaxy, Paris Saint-Germain, dan tim nasional sepak bola Inggris, di mana ia memegang rekor penampilan untuk pemain non-penjaga gawang dan juga pemain Inggris pertama yang memenangi gelar juara liga di empat negara berbeda. Dia mengumumkan pensiun dari dunia sepak bola profesional di akhir musim Ligue 1 2012–13 pada 16 Mei 2013.</item>
+        <item>Paulo Bruno Exequiel Dybala (lahir di Córdoba, 15 November 1993; umur 25 tahun) adalah seorang pemain sepak bola berkewarganegaraan Argentina yang bermain untuk klub Juventus biasa bermain pada posisi penyerang. Ia memiliki nama panggilan La Joya. Permainannya dianggap seperti penyerang Argentina Sergio Agüero atau penyerang Italia Vincenzo Montella. Dybala memulai karier juniornya di klub Instituto de Córdoba kemudian memulai karier seniornya di klub tersebut, sebelum bergabung dengan Palermo pada tahun 2012. Pada akhir musim 2014-15 ia dibeli Juventus dari Palermo.</item>
+        <item>Antoine Griezmann (lahir di Macon, 21 Maret 1991; umur 28 tahun) adalah seorang pemain sepak bola Prancis yang saat ini bermain untuk klub Atlético Madrid sebagai pemain sayap kiri atau penyerang. Terkenal karena akselerasi dan larinya yang cepat, ia saat ini mewakili Prancis di level senior dan masuk dalam skuat Piala Dunia 2014 silam.</item>
+        <item>James David Rodríguez Rubio (lahir di Cúcuta, 12 Juli 1991; umur 28 tahun) cukup dikenal dengan nama James Rodríguez (pengucapan bahasa Spanyol: [ˈxames roˈðɾiɣes]) atau James (hahm-ez) adalah pemain sepak bola Kolombia yang bermain untuk klub asal Jerman, Bayern München (pinjaman dari Real Madrid) di Bundesliga.</item>
+        <item>Frank James Lampard, (lahir di Romford, London, Inggris, 20 Juni 1978; umur 41 tahun) adalah seorang mantan pemain sepak bola profesional asal Inggris dan seorang manajer yang terakhir bermain sebagai gelandang untuk New York City di Major League Soccer dan Tim nasional Inggris.</item>
+        <item>Lionel Andrés "Leo" Messi ( lahir di Rosario, 24 Juni 1987; umur 32 tahun) adalah seorang pemain sepak bola Argentina yang saat ini bermain untuk FC Barcelona dan merupakan kapten tim nasional sepak bola Argentina dan FC Barcelona, bermain sebagai penyerang. Ia adalah pencetak gol terbanyak Barcelona sepanjang sejarah. Di usia 21 tahun, Messi telah dinominasikan untuk Ballon dOr dan Pemain Terbaik Dunia FIFA. Pada 2009, ia memenangi Ballon dOr dan Pemain Terbaik Dunia FIFA dan penghargaan pertama FIFA Ballon dOr pada 2010 dan 2011.</item>
+        <item>Sergio Ramos (lahir di Camas, Sevilla, Spanyol, 30 Maret 1986; umur 33 tahun) merupakan seorang pemain sepak bola asal Spanyol yang bermain pada posisi bertahan. Saat ini ia bermain untuk klub Spanyol, Real Madrid yang bermain di La Liga. Ia juga bermain untuk tim nasional Spanyol. Sebelum bermain untuk klubnya saat ini, Real Madrid sejak 2005 dengan harga transfer €27 juta yang merupakan rekor pemain remaja yang pindah ke Madrid hingga kini, Sergio Ramos bermain untuk klub Sevilla B dan Sevilla selama total 2 tahun. </item>
+        <item>Cristiano Ronaldo dos Santos Aveiro,(lahir di Funchal, Madeira, Portugal, 5 Februari 1985; umur 34 tahun) atau lebih dikenal Cristiano Ronaldo merupakan seorang pemain sepak bola Portugal. Ia dapat berposisi sebagai sayap kiri atau kanan serta penyerang tengah. Saat ini ia bermain untuk tim Italia, Juventus dan untuk tim nasional Portugal. Sebelum bermain untuk Real Madrid, ia pernah bermain di Sporting Lisboa dan Manchester United. Pemain yang kerap bernomor punggung 7 di lapangan hijau ini juga akrab dengan sebutan CR7, gabungan dari inisial nama dan nomor punggungnya.</item>
+        <item>Mohamed Salah Ghaly (lahir 15 Juni 1992) adalah pemain sepak bola profesional Mesir yang bermain sebagai penyerang untuk klub Inggris Liverpool dan timnas Mesir.Salah memulai karier seniornya di klub tempat lahirnya, El Mokawloon di Liga Premier Mesir tahun 2010, langsung bergabung dengan Basel untuk harga dirahasiakan. Di Swiss, ia menjadi bintang ketika ia memenangkan titel liga di musim debutnya, memenangkan SAFP Golden Player Award dalam proses. Performa Salah kemudian menarik minat klub Premier League Chelsea, dan ia bergabung dengan harga £11 juta pada tahun 2014. Namun, ia jarang digunakan di musim debutnya dan diizinkan pergi sebagai pinjaman ke klub Serie A Fiorentina dan Roma, dengan yang terakhir, membelinya secara permanen seharga €15 juta.</item>
+        <item>David Villa Sánchez (lahir di Langreo, Asturias, Spanyol, 3 Desember 1981; umur 37 tahun) merupakan seorang pemain sepak bola Spanyol yang berposisi sebagai penyerang. Saat ini ia bermain untuk klub Vissel Kobe. David Villa pernah bermain untuk Sporting Gijón B sejak 1999 hingga 2001. Kemudian, ia bermain di tim utama klub tersebut sejak 2001 hingga 2003. Lalu, ia bermain untuk Real Zaragoza hingga tahun 2005, sebelum kembali pindah, dan bermain untuk Valencia. Sejak 2010 hingga tahun 2013, David Villa bermain untuk Barcelona. Lalu pada tahun 2013 hingga akhir kompetisi La Liga tahun 2014, David Villa bermain di Atletico Madrid, sebelum ia memutuskan untuk berkarier di luar Eropa.</item>
+    </string-array>
+    <array name="data_photo">
+        <item>@drawable/beckham</item>
+        <item>@drawable/dybala</item>
+        <item>@drawable/griezmann</item>
+        <item>@drawable/james</item>
+        <item>@drawable/lampard</item>
+        <item>@drawable/messi</item>
+        <item>@drawable/ramos</item>
+        <item>@drawable/ronaldo</item>
+        <item>@drawable/salah</item>
+        <item>@drawable/villa</item>
+    </array>
+</resources>
